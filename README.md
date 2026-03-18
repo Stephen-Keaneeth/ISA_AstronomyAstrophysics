@@ -4,7 +4,7 @@
 This project is part of the **India Space Academy Winter Training Program**.  
 The goal is to analyze a real exoplanet using **actual astronomical data**, apply core physics concepts, and extract meaningful scientific insights.
 
-> “Understand the physics, extract at least one real parameter, and interpret it physically.” :contentReference[oaicite:0]{index=0}
+> “Understand the physics, extract at least one real parameter, and interpret it physically.”
 
 ---
 
@@ -67,11 +67,6 @@ T_p = T_* \sqrt{\frac{R_*}{2a}}
 2. Identified **transit dip**
 3. Estimated **transit depth manually**
 
-📌 Key Result:
-- Transit depth ≈ *[your value here]*
-
----
-
 ## 🔍 Interpretation
 
 ### 🪨 Planet Type
@@ -96,4 +91,28 @@ T_p = T_* \sqrt{\frac{R_*}{2a}}
 
 ---
 
-## 📁 Project Structure
+
+---
+
+## ✅ Key Outcomes
+
+- Extracted **real planetary parameters**
+- Worked with **actual observational data**
+- Understood **transit method deeply**
+- Applied **physics to real-world astronomy**
+
+---
+
+## 🚀 Final Note
+
+This project is not just theoretical — it demonstrates how **real scientific analysis** is done using actual space data.
+
+---
+
+## 📌 Author
+**N Stephen Keaneeth**  
+B.Tech CSE (Data Science)  
+Geethanjali College of Engineering and Technology
+
+---
+
